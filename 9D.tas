@@ -1,0 +1,87 @@
+console load nameguysdsidespack/0/10-Farewell
+
+   1
+
+#Start
+read,9D_01,Start
+
+#Peaceful Solitude
+read,9D_02,Start
+
+#Glimpse of Freedom
+read,9D_03,Start
+
+#Curiosity
+read,9D_04,Start
+
+#Dedication
+read,9D_05,Start
+
+#Memories
+read,9D_06,Start
+
+#Creation
+read,9D_07,Start
+
+#Exploration
+read,9D_08,Start,spike cycle
+   0
+read,9D_08,resume
+
+#Depression
+read,9D_09,Start
+
+#Trust
+read,9D_10,Start
+
+#Serenity
+read,9D_11,Start
+
+#Revisit
+read,9D_12,Start,spike cycle
+   0
+read,9D_12,resume
+
+#Black Karma
+read,9D_13,Start,key cycle
+   0
+read,9D_13,resume
+
+#Scattered Mirror of the Storm
+read,9D_14,Start
+
+#Sunrise Running
+read,9D_15,Start
+
+#Goodbye of the Mountain
+read,9D_16,Start
+
+#Heart Beating
+read,9D_17,Start
+
+#Realization
+read,9D_18,Start
+
+#Parting
+read,9D_19,Start
+
+#Plural
+read,9D_20,Start
+
+#True Love
+read,9D_21,Start
+
+#Reunification
+read,9D_22,Start
+
+#Point of No Return
+read,9D_23,Start
+
+#Edge of the Universe
+read,9D_24,Start
+
+#Bottomless
+read,9D_25,Start
+
+#Final Goodbye
+read,9D_26,Start
