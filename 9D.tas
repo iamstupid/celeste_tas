@@ -1,66 +1,69 @@
-console load nameguysdsidespack/0/10-Farewell
-
-   1
+#   1,Q
+#   1,J
+#  31
 
 #Start
-read,9D_01,Start
+#read,9D_01,Start
 
 #Peaceful Solitude
-read,9D_02,Start
+#read,9D_02_,Start
 
 #Glimpse of Freedom
-read,9D_03,Start
+#read,9D_03,Start
 
 #Curiosity
-read,9D_04,Start
+#read,9D_04,Start
 
 #Dedication
-read,9D_05,Start
+#read,9D_05,Start
 
 #Memories
-read,9D_06,Start
+#read,9D_06,Start
+
+#console load 23 50300 -8318
 
 #Creation
-read,9D_07,Start
+#read,9D_07
 
 #Exploration
-read,9D_08,Start,spike cycle
-   0
-read,9D_08,resume
+#read,9D_08,Start,spike cycle
+   2
+#read,9D_08,resume
 
 #Depression
-read,9D_09,Start
+#read,9D_09,Start
 
 #Trust
-read,9D_10,Start
+#read,9D_10,Start
 
 #Serenity
-read,9D_11,Start
+#read,9D_11,Start
 
 #Revisit
-read,9D_12,Start,spike cycle
+#read,9D_12,Start,spike cycle
    0
-read,9D_12,resume
+#read,9D_12,resume
 
 #Black Karma
-read,9D_13,Start,key cycle
-   0
-read,9D_13,resume
+#read,9D_13,Start,key cycle
+   2
+#read,9D_13,resume
 
 #Scattered Mirror of the Storm
-read,9D_14,Start
+#read,9D_14,Start
 
 #Sunrise Running
-read,9D_15,Start
+#read,9D_15,Start
 
 #Goodbye of the Mountain
-read,9D_16,Start
+#read,9D_16,Start
 
-#Heart Beating
-read,9D_17,Start
-
-#Realization
-read,9D_18,Start
+console load nameguysdsidespack/0/10-Farewell 165051 -45256
+   1
+console givekey
+console givekey
+#Heart Beating and Realization
+read,9D_17
 
 #Parting
 read,9D_19,Start
@@ -72,7 +75,18 @@ read,9D_20,Start
 read,9D_21,Start
 
 #Reunification
-read,9D_22,Start
+read,9D_22_,Start,key cycle 1
+
+#hold grab
+  27,G
+
+read,9D_22_,resume 1,key cycle 2
+
+  23
+read,9D_22_,resume 2,key cycle 3
+#hold grab
+  27,G
+read,9D_22_,resume 3
 
 #Point of No Return
 read,9D_23,Start
@@ -81,7 +95,7 @@ read,9D_23,Start
 read,9D_24,Start
 
 #Bottomless
-read,9D_25,Start
+#read,9D_25,Start
 
 #Final Goodbye
-read,9D_26,Start
+#read,9D_26,Start

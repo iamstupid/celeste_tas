@@ -1,9 +1,9 @@
 #literally just use extended variants
 #Jellyfish everywhere = 1
 
-console load 23 268445 -48368
+console load nameguysdsidespack/0/10-Farewell 268445 -48368
 #
-#console load 23 y-07
+#console load nameguysdsidespack/0/10-Farewell y-07
 #  37
 #   4,L,J
 #  44,L,D,G
@@ -15,12 +15,13 @@ console load 23 268445 -48368
 console give_golden
   36
 ***
-  10,L,J
+   1,L,J
   14,R,D,X
    1,R,J
    5,R,D,X
   43
 
+#Start
 #lvl_y-01
   11,R,J
    4,R,K,G

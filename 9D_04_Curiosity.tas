@@ -1,19 +1,19 @@
-console load nameguysdsidespack/0/10-Farewell 21748 -3727
+console load nameguysdsidespack/0/10-Farewell 21869 -3776
    1
 
   36
-  10,R,X
-  16,R,J
-  15,U,X
+   9,U,X
+console givekey
   40
 
 #lvl_cc-05
-  14,R
-  17,R,U,X
+  11,R
+  13,U,X
+#Start
   96,R
-   6,R
+   7,R
    4,D,X
-   4,R,X
+   3,R,X
    1,J
    3,L,D
   40
@@ -49,7 +49,7 @@ console load nameguysdsidespack/0/10-Farewell 21748 -3727
    7,R,K
   36,R
   15,D,C
-   1
+  11
   20,J
   20,D
   19,R,D
