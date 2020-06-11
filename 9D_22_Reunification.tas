@@ -22,6 +22,7 @@ console givekey
    1,R,J
   10,R
    6,L,D,X
+console givekey
    1,R,J
    7,R
 

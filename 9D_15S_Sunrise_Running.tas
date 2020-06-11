@@ -41,7 +41,7 @@ console load nameguysdsidespack/0/10-Farewell 135996 -35048
    4,R
    1,L
 
-read,9D_15,CP-74,nice
+read,9D_15_,CP-74,nice
 
 #nice
   15,R,J,G
@@ -126,7 +126,7 @@ read,9D_15,CP-74,nice
   10,L,J
   35,L
 
-read,9D_15,Section Upwind,CP-58
+read,9D_15_,Section Upwind,CP-58
 
   13,R,C
    6,R,J,G
@@ -291,7 +291,7 @@ read,9D_15,Section Upwind,CP-58
    1
    2,R
 
-read,9D_15,CP-55,Section Mixed Wind 2
+read,9D_15_,CP-55,Section Mixed Wind 2
 
    4,D,X
    1,R,J

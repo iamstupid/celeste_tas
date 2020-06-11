@@ -14,8 +14,7 @@ console load nameguysdsidespack/0/10-Farewell 268445 -48368
    1
 console give_golden
   36
-***
-   1,L,J
+  10,L,J
   14,R,D,X
    1,R,J
    5,R,D,X
@@ -711,12 +710,14 @@ console give_golden
   49,R,D
   11,R,J
   23,R,D
-   5,R,J
-  12,R
+   9,R,J
+  17,R
+   4,D
+   5,R,D
    4,D,X
-  11,R,X
-  19,R,D
-   4,D,C
+   4,R,X
    1,R,J
    8,R
+   1,R,J
+   9,R,D,X
  110
