@@ -12,12 +12,12 @@ console load nameguysdsidespack/0/10-Farewell 135764 -35048
 #console load nameguysdsidespack/0/10-Farewell 135943 -35144
    1
   36
-***
    8,U,X
    1,J
   40
 
 #lvl_p-01
+#Start
    5,R
    8,J
   22,R,U,X
@@ -433,7 +433,6 @@ console load nameguysdsidespack/0/10-Farewell 135764 -35048
   10,R,D,X
   29,L,J
   12,U,X
-***
   26
   17,F,191
   11,F,131

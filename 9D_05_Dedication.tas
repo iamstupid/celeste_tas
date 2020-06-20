@@ -3,8 +3,6 @@ console load nameguysdsidespack/0/10-Farewell d-01
 #lvl_d-01
   36
 #Start
-***
-
    4,D,X
    2,L,X
    1,R,J
@@ -33,7 +31,7 @@ console load nameguysdsidespack/0/10-Farewell d-01
   15,U,X
    1,R
   15,R,X
-  17,R,D
+  17,L,R,D
   12,R,X
    5,R,C
   15,D,X
@@ -168,7 +166,6 @@ console load nameguysdsidespack/0/10-Farewell d-01
   10,L,D,G
   19,G
    3,D,G
-
   50,R
   43,R,U,X
    4,R,D
@@ -185,7 +182,6 @@ console load nameguysdsidespack/0/10-Farewell d-01
    8,R,J
   21,R,D
    4,D
-
   15,U,X
   15,U,C
    1,L,J,G
@@ -313,16 +309,204 @@ console load nameguysdsidespack/0/10-Farewell d-01
   14,R,D,X
    8,R,J
   18,R,D,X
-  29,R,J
-  10,U,X
-  43,R,J
 
+  12,R,J
+   6,R
+  15,R,U,X
+   1,J
+  26,R,J
+   7,R,K
+   4,D,X
+   6,R,X
+   2,R,J
+   5,R,K,G
+   2
+  40
 
+#lvl_d-07
+   7
+   4,D,X
+   5,L,X
+   1,R,J
+   7,R
+  34,R,J
+  15,R,U,X
+   6,R
+   2
+  25,U,C
+  19,R,D
+   1,R,J
+   6,R
+  30,R,U,X
+  21,D
+  17,R,D
+   2
+   3,R
+  34,R,J
+  15,U,X
+  14,R
+  15,U,X
+  27,R
+   5,L
+   2,J
+  19,R,J
+  73,R,U,X
+   4,D,C
+   9,R,C
 
+   1,R,J
+   4,R
+  10
+   4,D,X
+  20,R,U,X
+  10,R,D,C
+   7,R,J
+   4,D,X
+  11,R,X
+  19,L
+  15,R,U,X
+  16,L
+  16
+ 
+  22
+   2,L
+   4,D,X
+   5,L,X
+   1,R,J
+   7,R
+  19,R,D,J
+  28,J
+   7,D
+  15,U,X
+   2
+  22,R
+   4,D,X
+  10,R,X
+  12,R,J
+   3,R
+   2,R,J
+  10,R
+  14,R,U,X
+   7,R,J,G
+   7,R
+   2,R,J
+  40
 
- 100
+#lvl_d-08
+   5,R,J
+   4,D,X
+   6,R,X
+  11,R,J
+  13,U,X
+  51,R
+  14,R,X
 
+  12,R,J,G
+   8,R,D
+  11,L,D
+   1,R,D
+  13,L,D
+   1,L,D
+  11,R,J
+   5,R
+  28,R,J
 
+   1,R
+   4,R,D
+   4,D,X
+  23,R,U,X
+   8
+   1,L
+   3,R
+  12,R,K
+   6,J,G
+   4,R,J,G
+   2,J
+   4,D,X
+  11,R,X
+   2
+   7,R
+   1,R,J,G
+   5,R
+   2,R,J
+   3,R
+   6
+  41,R,D
+   6,R
 
+   6,R,X
+   3,R,J,G
+   5,R
+   2,R,J
+  12,R
+   9,R,D
+  15,R,U,X
+   8,R
+   4,J,G
+  17,R
+   5,R,J
+   5,R
+   3
+   9,R
+   1,R,J,G
+   1,J
+   1
+  14,R
+   8,R,J
+   5,R
+   1,R,J
+  26,R,D
+   9,R,J
+  19,R
+   1,R,J,G
+  14,R
+   8,R,J
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   8,R
+  10,R,D,X
+  11,R,J
+   4,R,K,G
+   2,J
+   4,D,X
+  10,R,X
+   1,R,J
+  15,R,D,X
+   7,R
+   7,R,J
+   1,J
+  15,R,J
 
+   1,R,K,G
+   4,D,X
+  10,R,X
+  10,R,J
+  18,R,D,C
+   4,D,X
+  14,R,U,X
+  20,R,U,C
+  15,R,X
+   9,R,C
+   6,R,J
+   3,R,K,G
+   7,R
+  40
 
+#lvl_d-09
+   4,D,X
+   6,R,X
+  14,R,J
+  14,R,U,X
+  17,R
+  15,R,X
+  34,R,J
+  14,R,U,X
+   2,R,J,G
+   7,R
+#ugly sync
+   1,J
+   4,R,X
+   6,R,J
+  40,J

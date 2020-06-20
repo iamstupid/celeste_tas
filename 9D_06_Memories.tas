@@ -1,14 +1,21 @@
-console load nameguysdsidespack/0/10-Farewell d-10
+console load nameguysdsidespack/0/10-Farewell 36709 -4968
 
 #console load nameguysdsidespack/0/10-Farewell 47073 -5472
 #play,Section Auto,37
 
    1
 
-#lvl_d-10 <SectionStart=0.000>
+#lvl_d-09
   36
-***
+   4,X
+   6,R,J
+  40,J
+
+#Start
+#lvl_d-10 <SectionStart=0.000>
+   5,R,J
    4,D,X
+   3,R,X
    4,R,J
    1,R
   13,R,J
@@ -22,8 +29,7 @@ console load nameguysdsidespack/0/10-Farewell d-10
    4,R
    1,J
   19,R,J
-   5,J
-   1
+   6,J
    1,R
    1,R,G
    2,R,J,G
@@ -69,7 +75,8 @@ console load nameguysdsidespack/0/10-Farewell d-10
   22,L
   10,F,170
   18,F,156
-  21,L,D
+  20,L,D
+   1,R,D
   34,R
    9,U,C
   15,U,X
