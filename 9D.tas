@@ -21,9 +21,6 @@ read,9D_05,Start
 #
 Memories
 read,9D_06,Start
-#
-#console load 23 50300 -8318
-#
 
 Creation
 read,9D_07,Start
@@ -31,6 +28,7 @@ read,9D_07,Start
 Exploration
 read,9D_08,Start,spike cycle
    2
+***!
 read,9D_08,resume
 #
 
@@ -50,14 +48,15 @@ read,9D_12_,resume
 #
 
 Black Karma
-read,9D_13_,Start,key cycle
+read,9D_13A,Start,key cycle
    2
-read,9D_13_,resume
+read,9D_13A,resume
+read,9D_13B,Start
 
 #Scattered Mirror of the Storm
-read,9D_14
+read,9D_14A,Start
+read,9D_14B,Start
 
-console givekey
 #Sunrise Running
 read,9D_15_,Start
 

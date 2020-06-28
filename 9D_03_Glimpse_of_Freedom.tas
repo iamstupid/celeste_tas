@@ -6,7 +6,6 @@ console load nameguysdsidespack/0/10-Farewell 8804 -1940
 #play,Section b-08,37
 
    1
-***
   36
    1,D,X
    4,R,X
@@ -533,11 +532,9 @@ console load nameguysdsidespack/0/10-Farewell 8804 -1940
   17,J,G
   48,R,G
    1,R
-
   10,R,D
   44,D
    1,R
-
   14,R,X
   14,R,J
   24,R,G
@@ -545,7 +542,6 @@ console load nameguysdsidespack/0/10-Farewell 8804 -1940
    4,D,X
   11,R,X
    9,R
-
   20,L,K,G
   26,L,D
   15,R,U,X
@@ -556,24 +552,30 @@ console load nameguysdsidespack/0/10-Farewell 8804 -1940
   15,R,J
   10,R
   12,D
- 248,L,G
+  51,L,G
+   1,U,G
+   1,R
+  23,R,D,G
+   2,R
+  21,L
+   2,L,G
+   5,L,D,G
+   1,L,G
+   1,L,D,G
+ 140,L,G
    1,K
   13,L,J,G
    8,R,K
   15,R,X
   15,R,C
   34,R,D
-#should throw jelly instead
-#of having it slide off platform
-#save like .2 or something
-#again, don't care at this point
   10,R,X
-   7,L,J
-  10,U,X
+   3,L,J
+  11,L
    2,L,J
-   1,L,K
-  18,L
-  13,L,D,X
+  10,L,K,G
+   4,D,X
+   9,L,X
    2,R,J
   15,R,D,X
    2,R
