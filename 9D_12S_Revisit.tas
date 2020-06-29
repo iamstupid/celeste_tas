@@ -122,7 +122,11 @@ read,9D_12_,Start,j-05
   15,U,X
   40
 
-read,9D_12_,j-07,k-07
+read,9D_12_,j-07,spike cycle
+#spike cycle
+0
+#resume
+read,9D_12_,resume,k-07
 
 #k-07
   10,R,X

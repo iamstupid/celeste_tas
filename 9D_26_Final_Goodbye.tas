@@ -170,6 +170,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
    5,R,D,G
   14,L,D,G
    4,L,G
+# :(
    1,L,D
   21,L
    3,R
@@ -193,6 +194,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
   27,R,G
   19,R,J
   15,U,X
+# :( part 2
    1,L
    1,J,G
   10

@@ -1,3 +1,4 @@
+EnforceLegal
    1,Q
    1,J
   31
@@ -38,22 +39,20 @@ read,9D_10,Start
 read,9D_11,Start
 
 #Revisit
-read,9D_12_,Start,spike cycle
+read,9D_12S,Start,spike cycle
    0
-read,9D_12_,resume
+read,9D_12S,resume
 
 #Black Karma
-read,9D_13A,Start,key cycle
-   2
-read,9D_13A,resume
-read,9D_13B,Start
+read,9D_13S,Start,key cycle
+  24
+read,9D_13S,resume
 
 #Scattered Mirror of the Storm
-read,9D_14A,Start
-read,9D_14B,Start
+read,9D_14S,Start
 
 #Sunrise Running
-read,9D_15_,Start
+read,9D_15S,Start
 
 #Goodbye of the Mountain
 read,9D_16,Start
@@ -71,16 +70,10 @@ read,9D_20,Start
 read,9D_21,Start
 
 #Reunification
-read,9D_22_,Start,key cycle 1
-#-1 on visual
-#hold grab
-   9,G
-read,9D_22_,resume 1,key cycle 2
-  11
-read,9D_22_,resume 2,key cycle 3
-#hold grab
-   9,G
-read,9D_22_,resume 3
+read,9D_22S,Start
+
+#Infinity
+read,9D_28,Start
 
 #Point of No Return
 read,9D_23,Start

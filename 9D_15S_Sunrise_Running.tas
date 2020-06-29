@@ -18,6 +18,7 @@ console load nameguysdsidespack/0/10-Farewell 135996 -35048
   40
 
 #lvl_p-01
+#Start
    3,L
    1,L,J,G
    1,L,K,G
@@ -127,65 +128,6 @@ read,9D_15_,CP-74,nice
   35,L
 
 read,9D_15_,Section Upwind,CP-58
-
-  13,R,C
-   6,R,J,G
-   5,R
-   4,D,X
-  11,R,X
-  20,R,D
-   6,R
-   4,D,X
-  10,R,X
-   1,R,J
-   1,R
-   4,X
-   5,R,U,X
-   7,R,J,G
-   8,R
-   1
-  40
-
-#lvl_p-04
-   1
-   6,R,D
-   4,R,J
-   3,R
-
-#CP-57
-  16,R,J,G
-  15,R,D,X
-   4,R
-  20,L,U,X
-  15,U,C
-  26
-   1,F,200
-  11,F,140
-  27,F,87
-  40,F,62
-  14,R,X
-  10,R,J,G
-  19,R
-   5
-  16,R,U,X
-   5,R,J,G
-  12,R,D,X
-  69,R,C
-  28,R,D,X
-
-#CP-56
-   6,R,J
-  13,R
-   4,D,X
-  11,R,X
-   8,R,D,C
-  50,R,D
-   2,R
-  32,R,X
-  15,R,U,C
-  15,R,X
-   1
-   2,R
 
 #CP-58
   13,R,C
@@ -298,4 +240,4 @@ read,9D_15_,CP-55,Section Mixed Wind 2
    2,R
   40
 
-read,9D_15,lvl_p-05
+read,9D_15_,lvl_p-05

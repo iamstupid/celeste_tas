@@ -6,6 +6,7 @@ console load nameguysdsidespack/0/10-Farewell o-01outside
 
 #lvl_o-01outside
   36
+#Start
    7,R,J
    4,D,X
    8,R,X
@@ -543,7 +544,7 @@ lvl_o-10s
   30
 #Section o-12
   12,R,X
-
+#BRANCH SYNCKEYS
    1,J,G
    4,R
    7
@@ -934,6 +935,7 @@ lvl_o-10s
   10,L,J
   14,U,X
    3,J
+#BRANCH KEYS 2
   68,R,C
    1,L,J
    6,L,K
