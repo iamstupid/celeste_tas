@@ -341,36 +341,28 @@ console givekey
    9,R,J
    7,R,K
   15,R,X
-  14,R,D,C
-   1,R,J
-  24,R,D,X
-   4,L,J
-   1,L,K
-  10,L,D,X
-   3,R,J
-  33,R
-  21,R,X
+  10,R,D,C
+   5,R,J
+   4,R,K,G
+  12,R,D,X
    4,R,J
    1,R,K
-   3,R,K
-  18,R,X
-   4,R,J
-   1,R,K
+   3,K
+   1,L,J,G
+   2
+  28,R,D
    7,R
-   2,R,J
-  16,U,X
-   1,R,J,G
-   1,K,G
-   3,R
-   1
-   1,R
-   1
-   1,R
-   2,L
+   4,D,X
+  23,R,U,X
+   4
+   9,U,X
+   4,R,J
+   1,R,K,G
+  17,R
    4,D,X
    6,R,X
-  10,R,J
-  20,U,X
+  12,R,J
+  19,U,X
   16,D,C
   14,R,D
    4,L,D
@@ -411,30 +403,34 @@ console givekey
    5,R,J
    1,R
    1,R,K,G
-   7,R,J,G
-   2,R
-  25,R,X
+  10,R,J,G
+  26,R,X
    4,R,J
    1,R,K
-  19,R,X
+  17,R,X
    4,R,J
    1,R,K
-   9,R,D,X
-   7,R,J,G
-   3
+   1,K
+  10,R,D,X
+   1,R,J,G
+   1,J
+   2,R,J
+   1,R
+   2,R,K,G
+   3,R
   40
 
 #lvl_l-10
-   2,R
-   1,R,J
-   3,R
-   1,R,J
+   2
    1,J
-  11,R,J
+   1
+   2,R
+   6,R,J
+   1,J
+   6,R,J
    1,R,K,G
    5,R
-  10,R,J
-  14,R
+  24,R,J
   12,U,X
    7,R,J
    6,L,J

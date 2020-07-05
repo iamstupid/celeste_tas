@@ -1,8 +1,5 @@
-#Restart   
-   1,Q
-   1,J
-  31
-  
+console load 19
+   1
 #a-00
   80
    1,D,X
