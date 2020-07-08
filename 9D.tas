@@ -39,12 +39,12 @@ read,9D_11,Start
 
 #Revisit
 read,9D_12_,Start,spike cycle
-   1
+   0
 read,9D_12_,resume
 
 #Black Karma
 read,9D_13A,Start,key cycle
-   2
+   3
 read,9D_13A,resume
 read,9D_13B,Start
 
@@ -74,22 +74,22 @@ read,9D_21,Start
 read,9D_22_,Start,key cycle 1
 #-1 on visual
 #hold grab
-   9,G
+  26,G
 read,9D_22_,resume 1,key cycle 2
-  11
+  22
 read,9D_22_,resume 2,key cycle 3
 #hold grab
-   9,G
+  27,G
 read,9D_22_,resume 3
 
 #Point of No Return
-read,9D_23,Start
+read,9D_23_,Start
 
 #Edge of the Universe
-read,9D_24,Start
+read,9D_24_,Start
 
 #Bottomless
-read,9D_25,Start
+read,9D_25_,Start
 
 #Final Goodbye
-read,9D_26,Start
+read,9D_26_,Start

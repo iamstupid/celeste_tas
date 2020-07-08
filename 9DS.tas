@@ -4,7 +4,7 @@ EnforceLegal
   31
 
 #Start
-read,9D_01,Start
+read,9D_01_,Start
 
 #Peaceful Solitude
 read,9D_02_,Start
@@ -13,20 +13,20 @@ read,9D_02_,Start
 read,9D_03,Start
 
 #Curiosity
-read,9D_04,Start
+read,9D_04_,Start
 
 #Dedication
 read,9D_05,Start
 
 #Memories
-read,9D_06,Start
+read,9D_06_,Start
 
 #Creation
-read,9D_07,Start
+read,9D_07_,Start
 
 #Exploration
 read,9D_08,Start,spike cycle
-   2
+   0
 read,9D_08,resume
 
 #Depression
@@ -45,7 +45,7 @@ read,9D_12S,resume
 
 #Black Karma
 read,9D_13S,Start,key cycle
-  24
+  26,D
 read,9D_13S,resume
 
 #Scattered Mirror of the Storm
@@ -55,7 +55,7 @@ read,9D_14S,Start
 read,9D_15S,Start
 
 #Goodbye of the Mountain
-read,9D_16,Start
+read,9D_16_,Start
 
 #Heart Beating and Realization
 read,9D_17,Start
@@ -73,16 +73,16 @@ read,9D_21,Start
 read,9D_22S,Start
 
 #Infinity
-read,9D_28,Start
+read,9D_28_,Start
 
 #Point of No Return
-read,9D_23,Start
+read,9D_23_,Start
 
 #Edge of the Universe
-read,9D_24,Start
+read,9D_24_,Start
 
 #Bottomless
-read,9D_25,Start
+read,9D_25_,Start
 
 #Final Goodbye
-read,9D_26,Start
+read,9D_26_,Start

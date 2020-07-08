@@ -45,6 +45,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
    1,J,G
    4
    3,L
+#Section 1
    4,D,X
    1,R,J
    7,R
@@ -117,6 +118,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
   12,R,J
    5
    6,L,D,X
+#Section 2
   11
   42,R
    6
@@ -253,6 +255,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
    1,L
    8,L
   34,L,K
+#Section 3
   13,G
   26,L,G
   22,L,U,G
@@ -320,8 +323,8 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
   14,R,U,J,G
   11,R
   13,U,X
+#Section 4
   13,G
-
   11,L,U,G
    1,R,U,G
   53,U,G
@@ -384,6 +387,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
    1,R,U,G
   33,R,D,G
 
+#Section 5
   33,L,D,G
    1,R,D,G
    3,D,G
@@ -442,6 +446,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
 
   37,R
   22,R,X
+#Section 6
   13,G
   23,R,U,G
    1,L
@@ -482,6 +487,8 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
    7
    2,L
    1,L,J
+
+#Section 7
   14,L,D,X
    1,L,J
    4,L
@@ -583,6 +590,7 @@ console load nameguysdsidespack/0/10-Farewell 258920 -49568
    1,R,J
   20,R,U,X
   41,R,G
+#Section 8
    8,R,J,G
    9,R,G
    4,L,G
